@@ -16,7 +16,7 @@ const data: Testimonial[] = [
     id: 1,
     name: "Emma Johnson",
     role: "UI/UX Designer",
-    text: "Joana has an exceptional eye for detail. The interface she built for our product feels modern, intuitive, and incredibly smooth. She doesn't just write code — she thinks about the entire user experience.",
+    text: "Jane has an exceptional eye for detail. The interface she built for our product feels modern, intuitive, and incredibly smooth. She doesn't just write code — she thinks about the entire user experience.",
     image: "/testimonials/testimonial-1.jpg",
   },
   {
@@ -30,7 +30,7 @@ const data: Testimonial[] = [
     id: 3,
     name: "Sophia Davis",
     role: "Startup Founder",
-    text: "We needed a scalable full-stack solution under tight deadlines, and Joana absolutely delivered. Strong problem-solving skills and clear communication throughout the entire process.",
+    text: "We needed a scalable full-stack solution under tight deadlines, and Jane absolutely delivered. Strong problem-solving skills and clear communication throughout the entire process.",
     image: "/testimonials/testimonial-3.jpg",
   },
   {
@@ -44,14 +44,14 @@ const data: Testimonial[] = [
     id: 5,
     name: "Olivia Chen",
     role: "Marketing Director",
-    text: "The dashboard Joana built gave our team clarity and control. Everything feels intentional, clean, and easy to navigate. It's rare to find someone who balances logic and design this well.",
+    text: "The dashboard Jane built gave our team clarity and control. Everything feels intentional, clean, and easy to navigate. It's rare to find someone who balances logic and design this well.",
     image: "/testimonials/testimonial-5.jpg",
   },
   {
     id: 6,
     name: "Ava Thompson",
     role: "CEO",
-    text: "Reliable, focused, and incredibly efficient. Joana understands business needs and translates them directly into scalable technical solutions. Definitely someone you want on your team long term.",
+    text: "Reliable, focused, and incredibly efficient. Jane understands business needs and translates them directly into scalable technical solutions. Definitely someone you want on your team long term.",
     image: "/testimonials/testimonial-6.jpg",
   },
 ];
