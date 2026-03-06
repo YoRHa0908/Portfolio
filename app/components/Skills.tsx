@@ -1,6 +1,18 @@
 "use client";
 
 export default function Skills() {
+
+  const skillData = [
+    {title:"JavaScript", percent:"95%" },
+    {title:"Python", percent:"90%" },
+    {title:"React.js", percent:"95%" },
+    {title:"Next.js", percent:"95%" },    
+    {title:"Node.js", percent:"90%" },
+    {title:"Express.js", percent:"85%" },
+    {title:"PostgreSQL", percent:"90%" },
+    {title:"MongoDB", percent:"95%" },
+  ]
+
   return (
     <section id="skills" className="skills">
       <div className="skills-container">
@@ -8,71 +20,24 @@ export default function Skills() {
         <div className="underline"></div>
 
         <p className="skills-desc">
-          Full-Stack Engineer with 5+ years experience building scalable SaaS
-          applications using modern web technologies.
+          Senior Full-Stack Engineer with 5+ years of experience building scalable SaaS applications using React, Next.js, Node.js, and Python, focused on performance, clean architecture, and production-ready systems.
         </p>
 
         <div className="skills-grid">
-          {/* LEFT */}
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>React / Next.js</span>
-              <span>95%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "95%" }}></div>
-            </div>
-          </div>
+          
 
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>TypeScript</span>
-              <span>90%</span>
+          {skillData.map((item, index) =>  
+              <div className="skill-item" key={index}>
+              <div className="skill-header">
+                <span>{item.title}</span>
+                <span>{item.percent}</span>
+              </div>
+              <div className="progress">
+                <div className="progress-bar" style={{ width: item.percent}}></div>
+              </div>
             </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "90%" }}></div>
-            </div>
-          </div>
-
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>Node.js / Express</span>
-              <span>88%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "88%" }}></div>
-            </div>
-          </div>
-
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>Laravel / PHP</span>
-              <span>85%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "85%" }}></div>
-            </div>
-          </div>
-
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>MySQL / MongoDB</span>
-              <span>85%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "85%" }}></div>
-            </div>
-          </div>
-
-          <div className="skill-item">
-            <div className="skill-header">
-              <span>Tailwind / UI Design</span>
-              <span>90%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" style={{ width: "90%" }}></div>
-            </div>
-          </div>
+          )}
+          
         </div>
       </div>
     </section>
