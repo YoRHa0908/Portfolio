@@ -41,7 +41,7 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="overlay">
           <div className="hero-content">
-            <h1 className="hero-name">Joana Kelly</h1>
+            <h1 className="hero-name">Jane Hill</h1>
 
             <h2 className="hero-role">
               I'm <span className="typing">{text}</span>
@@ -65,18 +65,18 @@ export default function Home() {
                 <h3 style = {{marginBottom: '45px'}}>Software Engineer | Full-Stack Engineer.</h3>
 
                 <div className="info-grid">
-                  <p><strong>Birthday:</strong> 13 July 1998</p>
+                  <p><strong>Birthday:</strong> 8 September 1998</p>
                   <p><strong>Age:</strong> 27</p>
                   {/* <p><strong>Website:</strong> joanakelly.dev</p> */}
-                  <p><strong>Degree:</strong> BSc Computer Science</p>
+                  <p><strong>Degree:</strong> Master of Science</p>
                   {/* <p><strong>Phone:</strong> +1 000 000 000</p> */}
-                  <p><strong>Email:</strong> joana0713kelly@outlook.com</p>
+                  <p><strong>Email:</strong> jane0908hill@outlook.com</p>
                   <p><strong>City:</strong> United State</p>
                   <p><strong>Freelance:</strong> Available</p>
                 </div>
 
                 <p className="about-text">
-                  Full-stack developer working on production web applications across frontend and backend. Experienced with React, Node.js, and database-backed systems. I aim to ship features that are stable, maintainable, and ready for real users.
+                  Full-stack engineer experienced in building cloud-native applications using React, Node.js, and AWS. Worked on improving database performance and reducing application latency while supporting reliable production systems.
                 </p>
               </div>
             </div>

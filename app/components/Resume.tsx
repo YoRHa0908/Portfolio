@@ -19,7 +19,7 @@ export default function Resume() {
             <h2 className="resume-subtitle">Summary</h2>
 
             <div className="resume-item">
-              <h3>Joana Kelly</h3>
+              <h3>Jane Hill</h3>
               <p style = {{marginTop: '7px'}}>
                 I build and support production web applications used by over 1,000 active users. I work across frontend
                 and backend and take ownership of the systems I ship, staying involved to ensure they remain stable and

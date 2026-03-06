@@ -51,7 +51,7 @@ export default function Sidebar() {
     <aside className="sidebar">
         <div className="profile">
             <img src="/profile.png" alt="profile" />
-            <h2>Joana Kelly</h2>
+            <h2>Jane Hill</h2>
         </div>
 
         {/* ✅ Social Icons 추가 */}
