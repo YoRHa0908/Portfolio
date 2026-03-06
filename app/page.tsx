@@ -67,7 +67,7 @@ export default function Home() {
                 <div className="info-grid">
                   <p><strong>Birthday:</strong> 8 September 1998</p>
                   <p><strong>Age:</strong> 27</p>
-                  {/* <p><strong>Website:</strong> joanakelly.dev</p> */}
+                  {/* <p><strong>Website:</strong> janekelly.dev</p> */}
                   <p><strong>Degree:</strong> Master of Science</p>
                   {/* <p><strong>Phone:</strong> +1 000 000 000</p> */}
                   <p><strong>Email:</strong> jane0908hill@outlook.com</p>
