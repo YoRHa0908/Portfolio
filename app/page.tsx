@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 const roles = [
   "Software Engineer",
   "Full-Stack Developer",
-  "React Engineer"
+  "MERN Stack Developer"
 ];
 
 export default function Home() {
