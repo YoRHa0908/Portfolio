@@ -3,14 +3,15 @@
 export default function Skills() {
 
   const skillData = [
-    {title:"JavaScript", percent:"95%" },
-    {title:"Python", percent:"90%" },
     {title:"React.js", percent:"95%" },
+    {title:"Node.js", percent:"95%" },
+    {title:"Python", percent:"95%" },
+    {title:"JavaScript", percent:"95%" },
     {title:"Next.js", percent:"95%" },    
-    {title:"Node.js", percent:"90%" },
     {title:"Express.js", percent:"85%" },
     {title:"PostgreSQL", percent:"90%" },
     {title:"MongoDB", percent:"95%" },
+    {title:"MySQL", percent:"95%" },
   ]
 
   return (

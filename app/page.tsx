@@ -62,21 +62,20 @@ export default function Home() {
               </div>
 
               <div className="about-info">
-                <h3 style = {{marginBottom: '45px'}}>Software Engineer | Full-Stack Engineer.</h3>
+                <h3 style = {{marginBottom: '45px'}}>Full Stack Engineer (React | Node.js | Python)</h3>
 
                 <div className="info-grid">
                   <p><strong>Birthday:</strong> 8 September 1998</p>
                   <p><strong>Age:</strong> 27</p>
-                  {/* <p><strong>Website:</strong> janekelly.dev</p> */}
+                  <p><strong>Website:</strong> <a href="https://construkted.com">construkted.com</a></p>
                   <p><strong>Degree:</strong> Master of Science</p>
-                  {/* <p><strong>Phone:</strong> +1 000 000 000</p> */}
                   <p><strong>Email:</strong> jane0908hill@outlook.com</p>
-                  <p><strong>City:</strong> United State</p>
+                  <p><strong>City:</strong> Singapore</p>
                   <p><strong>Freelance:</strong> Available</p>
                 </div>
 
                 <p className="about-text">
-                  Full-stack engineer experienced in building cloud-native applications using React, Node.js, and AWS. Worked on improving database performance and reducing application latency while supporting reliable production systems.
+                  Senior Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
                 </p>
               </div>
             </div>

@@ -27,7 +27,6 @@ export default function Sidebar() {
     }
   };
 
-  // ✅ IntersectionObserver 하나만 유지
   useEffect(() => {
     const sections = document.querySelectorAll("section");
 
@@ -54,9 +53,8 @@ export default function Sidebar() {
             <h2>Jane Hill</h2>
         </div>
 
-        {/* ✅ Social Icons 추가 */}
         <div className="social">
-            <a href="https://github.com/" target="_blank">
+            <a href="https://github.com/YoRHa0908" target="_blank">
             <Github size={18} />
             </a>
             <a href="https://linkedin.com/" target="_blank">

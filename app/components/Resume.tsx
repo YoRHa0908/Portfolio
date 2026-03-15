@@ -20,23 +20,21 @@ export default function Resume() {
             <div className="resume-item">
               <h3>Jane Hill</h3>
               <p style = {{marginTop: '7px'}}>
-                Senior-level Full-Stack Engineer specializing in designing and scaling high-performance cloud-native
-                systems using React, Node.js, and AWS. Experienced in architecting backend services supporting
-                1,000+ concurrent users, optimizing database performance by 40%, reducing latency by 25%, and
-                maintaining 99.9% production uptime. Strong focus on system design, scalability, and operational
-                reliability
+                Senior Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
               </p>
               <ul>
-                <li>Los Angeles, CA</li>
-                <li>jane0908hill@outlook.com</li>
+                <li>Holland Village, Singapore</li>
+                <li>jane0698h@gmail.com</li>
               </ul>
             </div>
 
+ |
 
             <h2 className="resume-subtitle">Education</h2>
 
             <div className="resume-item">
-              <h3>Master of Science (M.S.) in Computer Science</h3>
+              <h3>PSB Academy, Singapore</h3>
+              <p>Bachelor of Computer Science</p>
               <span className="resume-date"></span>
               <p>
                 Focus: Distributed Systems, Databases, Cloud Computing
@@ -54,22 +52,22 @@ export default function Resume() {
               <h3>Full-Stack Developer</h3>
               <span className="resume-date">Remote · 2023 - Present</span>
               <ul>
-                <li>Owned the architecture and delivery of RESTful services supporting 1,000+ concurrent users</li>
+                <li>Owned the architecture and delivery of RESTful services supporting high-traffic applications</li>
                 <li>Deployed containerized applications on AWS, improving scalability and reliability</li>
-                <li>Reduced database latency by 40% through query and schema optimization</li>
-                <li>Lowered application response times by 25% via caching and backend tuning</li>
-                <li>Automated CI/CD pipelines, accelerating deployments by 60%</li>
-                <li>Maintained 99.9% uptime through monitoring and production improvements</li>
+                <li>Optimized database queries and schema, reducing latency and improving performance</li>
+                <li>Enhanced application response times through caching and backend tuning</li>
+                <li>Automated CI/CD pipelines, accelerating deployment processes</li>
+                <li>Ensured high production reliability through monitoring and operational improvements</li>
               </ul>
             </div>
 
             <div className="resume-item">
               <h3>Ground Intelligence Analyst</h3>
-              <span className="resume-date">2020 - 2023</span>
+              <span className="resume-date">2021 - 2023</span>
               <ul>
-                <li>Led operational coordination in mission-critical environments requiring precision and accountability</li>
-                <li>Designed workflow automation tools, improving operational efficiency by 80%</li>
-                <li>Collaborated across cross-functional teams under high-pressure conditions</li>
+                <li>Led operational coordination in mission-critical environments, ensuring precision and accountability</li>
+                <li>Designed workflow automation tools, significantly improving operational efficiency</li>
+                <li>Collaborated effectively across cross-functional teams under high-pressure conditions</li>
               </ul>
             </div>
 

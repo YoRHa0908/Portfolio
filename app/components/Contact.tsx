@@ -69,11 +69,11 @@ export default function Contact() {
                         </div>
                         <div>
                         <h4>Address</h4>
-                        <p>Los Angeles, CA</p>
+                        <p>Holland Village, Singapore</p>
                     </div>
                 </div>
 
-                <div className="info-item">
+                {/* <div className="info-item">
                     <div className="icon-box">
                         <Phone size={20} />
                     </div>
@@ -81,7 +81,7 @@ export default function Contact() {
                         <h4>Call Us</h4>
                         <p>+1 650 450-8734</p>
                     </div>
-                </div>
+                </div> */}
 
                 <div className="info-item">
                     <div className="icon-box">
@@ -89,7 +89,7 @@ export default function Contact() {
                     </div>
                     <div>
                         <h4>Email Us</h4>
-                        <p>jane0908hill@outlook.com</p>
+                        <p>jane0698h@gmail.com</p>
                     </div>
                 </div>
             </div>
