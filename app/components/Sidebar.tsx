@@ -49,7 +49,7 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
         <div className="profile">
-            <img src="/profile.png" alt="profile" />
+            <img src="/profile.jpg" alt="profile" />
             <h2>Jane Hill</h2>
         </div>
 

@@ -58,7 +58,7 @@ export default function Home() {
 
             <div className="about-content">
               <div className="about-image">
-                <img src="/profile.png" alt="about" />
+                <img src="/profile.jpg" alt="about" />
               </div>
 
               <div className="about-info">
