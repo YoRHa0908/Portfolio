@@ -8,7 +8,7 @@ export default function Resume() {
         <div className="underline"></div>
 
         <p className="resume-desc">
-          Senior Full-Stack Engineer with 5+ years of experience building scalable SaaS applications using React, Next.js, Node.js, and Python, focused on performance, clean architecture, and production-ready systems.
+          Full-Stack Engineer with 3+ years of experience building scalable SaaS applications using React, Next.js, Node.js, and Python, focused on performance, clean architecture, and production-ready systems.
         </p>
 
         <div className="resume-grid">
@@ -20,10 +20,10 @@ export default function Resume() {
             <div className="resume-item">
               <h3>Jane Hill</h3>
               <p style = {{marginTop: '7px'}}>
-                Senior Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
+                Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
               </p>
               <ul>
-                <li>Holland Village, Singapore</li>
+                <li>Shiyan, China</li>
                 <li>jane0698h@gmail.com</li>
               </ul>
             </div>
@@ -33,7 +33,7 @@ export default function Resume() {
             <h2 className="resume-subtitle">Education</h2>
 
             <div className="resume-item">
-              <h3>PSB Academy, Singapore</h3>
+              <h3> University of Electronic Science and Technology</h3>
               <p>Bachelor of Computer Science</p>
               <span className="resume-date"></span>
               <p>

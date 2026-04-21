@@ -65,17 +65,17 @@ export default function Home() {
                 <h3 style = {{marginBottom: '45px'}}>Full Stack Engineer (React | Node.js | Python)</h3>
 
                 <div className="info-grid">
-                  <p><strong>Birthday:</strong> 8 September 1998</p>
-                  <p><strong>Age:</strong> 27</p>
+                  <p><strong>Birthday:</strong> 8 September 2000</p>
+                  <p><strong>Age:</strong> 26</p>
                   <p><strong>Website:</strong> <a href="https://construkted.com">construkted.com</a></p>
                   <p><strong>Degree:</strong> Master of Science</p>
                   <p><strong>Email:</strong> jane0908hill@outlook.com</p>
-                  <p><strong>City:</strong> Singapore</p>
+                  <p><strong>City:</strong> China</p>
                   <p><strong>Freelance:</strong> Available</p>
                 </div>
 
                 <p className="about-text">
-                  Senior Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
+                  Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
                 </p>
               </div>
             </div>

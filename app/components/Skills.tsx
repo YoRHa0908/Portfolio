@@ -21,7 +21,7 @@ export default function Skills() {
         <div className="underline"></div>
 
         <p className="skills-desc">
-          Senior Full-Stack Engineer with 5+ years of experience building scalable SaaS applications using React, Next.js, Node.js, and Python, focused on performance, clean architecture, and production-ready systems.
+          Full-Stack Engineer with 3+ years of experience building scalable SaaS applications using React, Next.js, Node.js, and Python, focused on performance, clean architecture, and production-ready systems.
         </p>
 
         <div className="skills-grid">
