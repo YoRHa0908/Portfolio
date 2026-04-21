@@ -62,13 +62,13 @@ export default function Home() {
               </div>
 
               <div className="about-info">
-                <h3 style = {{marginBottom: '45px'}}>Full Stack Engineer (React | Node.js | Python)</h3>
+                <h3 style = {{marginBottom: '45px'}}>Full Stack Engineer (React | Next.js | Node.js | WordPress)</h3>
 
                 <div className="info-grid">
                   <p><strong>Birthday:</strong> 8 September 2000</p>
                   <p><strong>Age:</strong> 26</p>
                   <p><strong>Website:</strong> <a href="https://construkted.com">construkted.com</a></p>
-                  <p><strong>Degree:</strong> Master of Science</p>
+                  <p><strong>Degree:</strong> Bachelor of Computer Science</p>
                   <p><strong>Email:</strong> jane0908hill@outlook.com</p>
                   <p><strong>City:</strong> China</p>
                   <p><strong>Freelance:</strong> Available</p>

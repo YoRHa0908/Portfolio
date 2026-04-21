@@ -37,7 +37,10 @@ export default function Resume() {
               <p>Bachelor of Computer Science</p>
               <span className="resume-date"></span>
               <p>
-                Focus: Distributed Systems, Databases, Cloud Computing
+                 •Relevant Coursework: Data Structures, Web Development, Cloud Computing
+              </p>
+              <p>
+                 •Academic Projects: Developed mini full-stack web apps integrating frontend and backend systems
               </p>
             </div>
              
@@ -50,24 +53,22 @@ export default function Resume() {
 
             <div className="resume-item">
               <h3>Full-Stack Developer</h3>
-              <span className="resume-date">Remote · 2023 - Present</span>
+              <span className="resume-date">Remote · 06/2024 - 11/2025</span>
               <ul>
-                <li>Owned the architecture and delivery of RESTful services supporting high-traffic applications</li>
-                <li>Deployed containerized applications on AWS, improving scalability and reliability</li>
-                <li>Optimized database queries and schema, reducing latency and improving performance</li>
-                <li>Enhanced application response times through caching and backend tuning</li>
-                <li>Automated CI/CD pipelines, accelerating deployment processes</li>
-                <li>Ensured high production reliability through monitoring and operational improvements</li>
+                <li>Developed responsive React/Next.js components, significantly improving frontend performance</li>
+                <li>Built multiple client WordPress sites with custom plugins, enhancing content management efficiency</li>
+                <li>Developed reusable React dashboards and UI components, boosting team efficiency</li>
+                <li>Automated repetitive tasks, streamlining workflows and saving team time</li>
               </ul>
             </div>
 
             <div className="resume-item">
-              <h3>Ground Intelligence Analyst</h3>
-              <span className="resume-date">2021 - 2023</span>
+              <h3>Frontend Automation Engineer</h3>
+              <span className="resume-date">12/2022 - 04/2024</span>
               <ul>
-                <li>Led operational coordination in mission-critical environments, ensuring precision and accountability</li>
-                <li>Designed workflow automation tools, significantly improving operational efficiency</li>
-                <li>Collaborated effectively across cross-functional teams under high-pressure conditions</li>
+                <li>Developed reusable React dashboards and UI components, improving team efficiency by 30%</li>
+                <li>Automated repetitive tasks, saving 8+ hours weekly and streamlining workflows</li>
+                <li>Enhanced reliability of internal tools and standardized interfaces across multiple platforms</li>
               </ul>
             </div>
 
