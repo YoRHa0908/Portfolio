@@ -19,8 +19,12 @@ export default function Resume() {
 
             <div className="resume-item">
               <h3>Jane Hill</h3>
-              <p style = {{marginTop: '7px'}}>
-                Full-Stack Engineer with expertise in building high-performance cloud-native systems using React, Node.js, and AWS. Skilled in backend architecture, performance optimization, and maintaining robust, reliable systems at scale. Focused on system design, scalability, and operational excellence.
+              <p style={{ marginTop: '7px' }}>
+                Results-driven Full-Stack Engineer with 3+ years of experience delivering scalable, high-performance web
+                applications using React, Next.js, Node.js, and WordPress. Expert at integrating frontend and backend
+                systems, optimizing user experience, and deploying production-ready solutions on AWS. Passionate about
+                writing maintainable code, enhancing performance, and leading projects from concept to live
+                deployment
               </p>
               <ul>
                 <li>Shiyan, China</li>
@@ -28,7 +32,7 @@ export default function Resume() {
               </ul>
             </div>
 
- |
+            |
 
             <h2 className="resume-subtitle">Education</h2>
 
@@ -37,13 +41,13 @@ export default function Resume() {
               <p>Bachelor of Computer Science</p>
               <span className="resume-date"></span>
               <p>
-                 •Relevant Coursework: Data Structures, Web Development, Cloud Computing
+                •Relevant Coursework: Data Structures, Web Development, Cloud Computing
               </p>
               <p>
-                 •Academic Projects: Developed mini full-stack web apps integrating frontend and backend systems
+                •Academic Projects: Developed mini full-stack web apps integrating frontend and backend systems
               </p>
             </div>
-             
+
           </div>
 
           {/* RIGHT COLUMN */}
