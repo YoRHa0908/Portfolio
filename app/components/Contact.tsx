@@ -69,7 +69,7 @@ export default function Contact() {
                         </div>
                         <div>
                         <h4>Address</h4>
-                        <p>Shiyan, China</p>
+                        <p>Saint Petersburg, Russia</p>
                     </div>
                 </div>
 

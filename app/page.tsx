@@ -70,7 +70,7 @@ export default function Home() {
                   <p><strong>Website:</strong> <a href="https://construkted.com">construkted.com</a></p>
                   <p><strong>Degree:</strong> Bachelor of Computer Science</p>
                   <p><strong>Email:</strong> jane0908hill@outlook.com</p>
-                  <p><strong>City:</strong> China</p>
+                  <p><strong>Country:</strong> China</p>
                   <p><strong>Freelance:</strong> Available</p>
                 </div>
 
