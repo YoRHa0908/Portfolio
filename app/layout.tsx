@@ -2,7 +2,7 @@ import "./globals.css";
 import Sidebar from "./components/Sidebar";
 
 export const metadata = {
-  title: "Jane Hill | Portfolio",
+  title: "Juan Correa | Portfolio",
   description: "Full-Stack Engineer Portfolio",
 };
 

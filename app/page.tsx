@@ -41,7 +41,7 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="overlay">
           <div className="hero-content">
-            <h1 className="hero-name">Jane Hill</h1>
+            <h1 className="hero-name">Juan Correa</h1>
 
             <h2 className="hero-role">
               I'm <span className="typing">{text}</span>
