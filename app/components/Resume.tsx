@@ -18,7 +18,7 @@ export default function Resume() {
             <h2 className="resume-subtitle">Summary</h2>
 
             <div className="resume-item">
-              <h3>Juan Correa</h3>
+              <h3>Jane Hill</h3>
               <p style={{ marginTop: '7px' }}>
                 Results-driven Full-Stack Engineer with 3+ years of experience delivering scalable, high-performance web
                 applications using React, Next.js, Node.js, and WordPress. Expert at integrating frontend and backend

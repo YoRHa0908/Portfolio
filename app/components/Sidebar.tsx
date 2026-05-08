@@ -50,7 +50,7 @@ export default function Sidebar() {
     <aside className="sidebar">
         <div className="profile">
             <img src="/profile.jpg" alt="profile" />
-            <h2>Juan Correa</h2>
+            <h2>Jane Hill</h2>
         </div>
 
         <div className="social">
